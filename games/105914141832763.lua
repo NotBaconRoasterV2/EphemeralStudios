@@ -1,3 +1,4 @@
+--[[
 # .-------------------------------------------------------------------.
 # | robots.txt for baconroasterv2 projects                            |
 # '-------------------------------------------------------------------'
@@ -60,3 +61,5 @@ Crawl-delay: 5
 
 # 4. SITEMAP LOCATION
 Sitemap: https://yourdomain.com/sitemap.xml
+
+]]
